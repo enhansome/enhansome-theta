@@ -1,0 +1,245 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theta-client",
+          "description": "Client library using Web API v2.1 to control THETA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-22T00:25:22Z",
+            "owner": "ricohapi",
+            "repo": "theta-client",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-api2.1-android-sdk",
+          "description": "[archived] A sample application project using Web API v2.1 for Android",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-07-17T03:59:51Z",
+            "owner": "ricohapi",
+            "repo": "theta-api2.1-android-sdk",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-api2.1-ios-sdk",
+          "description": "[archived] A sample application project using Web API v2.1 for iOS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2020-05-27T00:20:53Z",
+            "owner": "ricohapi",
+            "repo": "theta-api2.1-ios-sdk",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-ble-client",
+          "description": "Client library using Bluetooth API to control THETA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-12-25T07:41:09Z",
+            "owner": "ricohapi",
+            "repo": "theta-ble-client",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fake-theta",
+          "description": "THETA Web API response simulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-04T23:21:03Z",
+            "owner": "ricohapi",
+            "repo": "fake-theta",
+            "stars": 0
+          }
+        }
+      ],
+      "title": ":iphone: THETA Mobile SDK and Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theta-plugin-sdk",
+          "description": "Sample project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-08T09:27:39Z",
+            "owner": "ricohapi",
+            "repo": "theta-plugin-sdk",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-wireless-live-streaming-plugin",
+          "description": "Wireless live streaming plugin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-05-09T10:00:40Z",
+            "owner": "ricohapi",
+            "repo": "theta-wireless-live-streaming-plugin",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-automatic-face-blur-plugin",
+          "description": "Automatic face blur plugin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2022-10-24T08:25:02Z",
+            "owner": "ricohapi",
+            "repo": "theta-automatic-face-blur-plugin",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-plugin-camera-api-sample-x",
+          "description": "Sample project of Camera API usage for RICOH THETA X",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-09-08T23:58:58Z",
+            "owner": "ricohapi",
+            "repo": "theta-plugin-camera-api-sample-x",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-plugin-library",
+          "description": "Library including THETA specified methods and APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-08T09:15:11Z",
+            "owner": "ricohapi",
+            "repo": "theta-plugin-library",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-plugin-camera-api-sample",
+          "description": "Sample project of Camera API usage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-09T08:40:08Z",
+            "owner": "ricohapi",
+            "repo": "theta-plugin-camera-api-sample",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-cloud-upload-v2-plugin",
+          "description": "File cloud upload V2 plugin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-06-05T07:27:44Z",
+            "owner": "ricohapi",
+            "repo": "theta-cloud-upload-v2-plugin",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theta-vr-media-connection-plugin",
+          "description": "VR media connection plugin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-07-10T06:13:03Z",
+            "owner": "ricohapi",
+            "repo": "theta-vr-media-connection-plugin",
+            "stars": 1
+          }
+        }
+      ],
+      "title": ":electric_plug: THETA Plugin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libuvc-theta",
+          "description": "libuvc adding support for UVC1.5/H.264",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-07-30T00:20:29Z",
+            "owner": "ricohapi",
+            "repo": "libuvc-theta",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libuvc-theta-sample",
+          "description": "Samples for libuvc-theta",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2023-05-19T13:55:26Z",
+            "owner": "ricohapi",
+            "repo": "libuvc-theta-sample",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "USB"
+    },
+    {
+      "description": "Contributions are always welcome! Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributions"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:36.222Z",
+    "original_repository": "ricohapi/awesome-theta",
+    "original_repository_sha": "0fb570650ae080aed025a959ab4c9524f41b4169",
+    "enhanced_repository": "enhansome/enhansome-theta",
+    "enhanced_repository_description": null,
+    "title": "Awesome THETA with stars"
+  }
+}
