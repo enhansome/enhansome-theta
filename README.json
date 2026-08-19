@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 592574011,
             "language": "Kotlin",
             "last_commit": "2026-05-22T00:25:22Z",
             "owner": "ricohapi",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 208219110,
             "language": "Java",
             "last_commit": "2021-07-17T03:59:51Z",
             "owner": "ricohapi",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 208218981,
             "language": "Objective-C",
             "last_commit": "2020-05-27T00:20:53Z",
             "owner": "ricohapi",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710562511,
             "language": "Kotlin",
             "last_commit": "2025-12-25T07:41:09Z",
             "owner": "ricohapi",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 608975215,
             "language": "TypeScript",
             "last_commit": "2025-06-04T23:21:03Z",
             "owner": "ricohapi",
@@ -77,7 +82,7 @@
       "title": ":iphone: THETA Mobile SDK and Library"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130003514,
             "language": "Java",
             "last_commit": "2025-06-08T09:27:39Z",
             "owner": "ricohapi",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 139807860,
             "language": "Java",
             "last_commit": "2023-05-09T10:00:40Z",
             "owner": "ricohapi",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 139807605,
             "language": "HTML",
             "last_commit": "2022-10-24T08:25:02Z",
             "owner": "ricohapi",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469927455,
             "language": "Kotlin",
             "last_commit": "2025-09-08T23:58:58Z",
             "owner": "ricohapi",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171367741,
             "language": "Java",
             "last_commit": "2025-09-08T09:15:11Z",
             "owner": "ricohapi",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143382082,
             "language": "Java",
             "last_commit": "2025-09-09T08:40:08Z",
             "owner": "ricohapi",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 190310713,
             "language": "Java",
             "last_commit": "2019-06-05T07:27:44Z",
             "owner": "ricohapi",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 196129072,
             "language": "Java",
             "last_commit": "2019-07-10T06:13:03Z",
             "owner": "ricohapi",
@@ -195,7 +208,7 @@
       "title": ":electric_plug: THETA Plugin"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 283075192,
             "language": null,
             "last_commit": "2020-07-30T00:20:29Z",
             "owner": "ricohapi",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 281348880,
             "language": "C",
             "last_commit": "2023-05-19T13:55:26Z",
             "owner": "ricohapi",
@@ -227,16 +242,12 @@
         }
       ],
       "title": "USB"
-    },
-    {
-      "description": "Contributions are always welcome! Please read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:08:56.818Z",
+    "last_updated": "2026-08-19T12:57:05.538Z",
     "original_repository": "ricohapi/awesome-theta",
+    "original_repository_id": 533551935,
     "original_repository_sha": "0fb570650ae080aed025a959ab4c9524f41b4169",
     "enhanced_repository": "enhansome/enhansome-theta",
     "enhanced_repository_description": null,
