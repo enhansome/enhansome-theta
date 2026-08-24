@@ -17,7 +17,7 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 ## :link: THETA API
 
 * [RICOH360 Docs for Developers](https://docs.ricoh360.com/)
-* [theta-api-specs](https://github.com/ricohapi/theta-api-specs) ⭐ 54 | 🐛 0 | 📅 2026-08-19 - RICOH THETA API specifications
+* [theta-api-specs](https://github.com/ricohapi/theta-api-specs) ⭐ 54 | 🐛 0 | 📅 2026-08-24 - RICOH THETA API specifications
 
 ## :iphone: THETA Mobile SDK and Library
 
