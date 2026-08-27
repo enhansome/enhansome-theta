@@ -57,7 +57,7 @@
             "archived": false,
             "id": 710562511,
             "language": "Kotlin",
-            "last_commit": "2025-12-25T07:41:09Z",
+            "last_commit": "2026-08-27T08:15:03Z",
             "owner": "ricohapi",
             "repo": "theta-ble-client",
             "stars": 4
@@ -245,9 +245,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:16:02.663Z",
-    "original_repository": "ricohapi/awesome-theta",
-    "original_repository_id": 533551935,
+    "last_updated": "2026-08-27T12:09:00.598Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 533551935,
+      "language": null,
+      "last_commit": "2025-06-04T01:21:33Z",
+      "owner": "ricohapi",
+      "repo": "awesome-theta",
+      "stars": 66
+    },
     "original_repository_sha": "0fb570650ae080aed025a959ab4c9524f41b4169",
     "enhanced_repository": "enhansome/enhansome-theta",
     "enhanced_repository_description": null,

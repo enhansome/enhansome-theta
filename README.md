@@ -24,7 +24,7 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 * [theta-client](https://github.com/ricohapi/theta-client) ⭐ 28 | 🐛 13 | 🌐 Kotlin | 📅 2026-05-22 - Client library using Web API v2.1 to control THETA
 * [theta-api2.1-android-sdk](https://github.com/ricohapi/theta-api2.1-android-sdk) ⚠️ Archived - \[archived] A sample application project using Web API v2.1 for Android
 * [theta-api2.1-ios-sdk](https://github.com/ricohapi/theta-api2.1-ios-sdk) ⚠️ Archived - \[archived] A sample application project using Web API v2.1 for iOS
-* [theta-ble-client](https://github.com/ricohapi/theta-ble-client) ⭐ 4 | 🐛 1 | 🌐 Kotlin | 📅 2025-12-25 - Client library using Bluetooth API to control THETA
+* [theta-ble-client](https://github.com/ricohapi/theta-ble-client) ⭐ 4 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-27 - Client library using Bluetooth API to control THETA
 * [fake-theta](https://github.com/ricohapi/fake-theta) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2025-06-04 - THETA Web API response simulator
 
 ## :electric\_plug: THETA Plugin
@@ -56,4 +56,4 @@ Contributions are always welcome! Please read the [contribution guidelines](cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
