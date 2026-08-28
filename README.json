@@ -16,7 +16,8 @@
             "owner": "ricohapi",
             "repo": "theta-client",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ricohapi",
             "repo": "theta-api2.1-android-sdk",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ricohapi",
             "repo": "theta-api2.1-ios-sdk",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "ricohapi",
             "repo": "theta-ble-client",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ricohapi",
             "repo": "fake-theta",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         }
       ],
       "title": ":iphone: THETA Mobile SDK and Library"
@@ -97,7 +102,8 @@
             "owner": "ricohapi",
             "repo": "theta-plugin-sdk",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "ricohapi",
             "repo": "theta-wireless-live-streaming-plugin",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "ricohapi",
             "repo": "theta-automatic-face-blur-plugin",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "ricohapi",
             "repo": "theta-plugin-camera-api-sample-x",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "ricohapi",
             "repo": "theta-plugin-library",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ricohapi",
             "repo": "theta-plugin-camera-api-sample",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "ricohapi",
             "repo": "theta-cloud-upload-v2-plugin",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "ricohapi",
             "repo": "theta-vr-media-connection-plugin",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         }
       ],
       "title": ":electric_plug: THETA Plugin"
@@ -223,7 +236,8 @@
             "owner": "ricohapi",
             "repo": "libuvc-theta",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         },
         {
           "node_type": "item",
@@ -238,14 +252,15 @@
             "owner": "ricohapi",
             "repo": "libuvc-theta-sample",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:55:35.249Z"
         }
       ],
       "title": "USB"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:30:38.983Z",
+    "last_updated": "2026-08-28T16:55:35.249Z",
     "original_repository_info": {
       "archived": false,
       "id": 533551935,
