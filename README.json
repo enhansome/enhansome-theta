@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to control RICOH THETA",
+            "homepage": null,
             "id": 592574011,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-05-22T00:25:22Z",
+            "open_issues": 13,
             "owner": "ricohapi",
             "repo": "theta-client",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "android",
+              "flutter",
+              "ios",
+              "kotlin-multiplatform",
+              "react-native",
+              "ricoh",
+              "ricoh360",
+              "theta",
+              "vr"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -26,12 +41,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "RICOH THETA API v2.1 SDK for Android",
+            "homepage": null,
             "id": 208219110,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-17T03:59:51Z",
+            "open_issues": 1,
             "owner": "ricohapi",
             "repo": "theta-api2.1-android-sdk",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "RICOH THETA API v2.1 SDK for iOS",
+            "homepage": null,
             "id": 208218981,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2020-05-27T00:20:53Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-api2.1-ios-sdk",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -58,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to control RICOH THETA via Bluetooth API",
+            "homepage": null,
             "id": 710562511,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-27T08:15:03Z",
+            "open_issues": 1,
             "owner": "ricohapi",
             "repo": "theta-ble-client",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -74,12 +104,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "THETA API Simulator",
+            "homepage": "https://fake-theta.vercel.app",
             "id": 608975215,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-04T23:21:03Z",
+            "open_issues": 1,
             "owner": "ricohapi",
             "repo": "fake-theta",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "api",
+              "ricoh",
+              "ricoh360",
+              "theta"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         }
@@ -96,12 +136,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "THETA Plugin SDK",
+            "homepage": null,
             "id": 130003514,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-08T09:27:39Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-plugin-sdk",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "theta-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -112,12 +159,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Wireless live streaming plug-in for RICOH THETA",
+            "homepage": null,
             "id": 139807860,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-09T10:00:40Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-wireless-live-streaming-plugin",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "theta-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -128,12 +182,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automatic face blur plug-in for RICOH THETA",
+            "homepage": null,
             "id": 139807605,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-24T08:25:02Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-automatic-face-blur-plugin",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "theta-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -144,12 +205,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "THETA X Plug-in : Camera API Sample",
+            "homepage": "https://api.ricoh/docs/theta-plugin-reference/camera-api/",
             "id": 469927455,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-08T23:58:58Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-plugin-camera-api-sample-x",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "theta-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -160,12 +228,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RICOH THETA Plug-in Library",
+            "homepage": null,
             "id": 171367741,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-08T09:15:11Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-plugin-library",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "theta-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -176,12 +251,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "THETA Sample Plug-in: CameraAPI Capture Plugin",
+            "homepage": null,
             "id": 143382082,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-09T08:40:08Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-plugin-camera-api-sample",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "theta-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -192,12 +274,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cloud upload plug-in V2 for RICOH THETA",
+            "homepage": null,
             "id": 190310713,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-05T07:27:44Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-cloud-upload-v2-plugin",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "theta-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -208,12 +297,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "VR Media Connection plug-in for RICOH THETA",
+            "homepage": null,
             "id": 196129072,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-10T06:13:03Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-vr-media-connection-plugin",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "theta-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         }
@@ -230,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "a cross-platform library for USB video devices",
+            "homepage": "https://ken.tossell.net/libuvc/",
             "id": 283075192,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2020-07-30T00:20:29Z",
+            "open_issues": 0,
             "owner": "ricohapi",
             "repo": "libuvc-theta",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         },
@@ -246,12 +347,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 281348880,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-19T13:55:26Z",
+            "open_issues": 6,
             "owner": "ricohapi",
             "repo": "libuvc-theta-sample",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
         }
@@ -260,15 +366,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:55:35.249Z",
+    "last_updated": "2026-08-29T05:05:03.998Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🎉 A curated list of awesome things related to RICOH THETA",
+      "homepage": "https://www.ricoh360.com/theta/",
       "id": 533551935,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-06-04T01:21:33Z",
+      "open_issues": 0,
       "owner": "ricohapi",
       "repo": "awesome-theta",
-      "stars": 66
+      "stars": 66,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ricoh",
+        "ricoh360",
+        "theta"
+      ]
     },
     "original_repository_sha": "0fb570650ae080aed025a959ab4c9524f41b4169",
     "enhanced_repository": "enhansome/enhansome-theta",
