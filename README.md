@@ -17,7 +17,7 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 ## :link: THETA API
 
 * [RICOH360 Docs for Developers](https://docs.ricoh360.com/)
-* [theta-api-specs](https://github.com/ricohapi/theta-api-specs) ⭐ 54 | 🐛 0 | 📅 2026-08-24 - RICOH THETA API specifications
+* [theta-api-specs](https://github.com/ricohapi/theta-api-specs) ⭐ 54 | 🐛 0 | 📅 2026-09-03 - RICOH THETA API specifications
 
 ## :iphone: THETA Mobile SDK and Library
 
@@ -34,13 +34,13 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 * [theta-automatic-face-blur-plugin](https://github.com/ricohapi/theta-automatic-face-blur-plugin) ⚠️ Archived - Automatic face blur plugin
 * [theta-plugin-camera-api-sample-x](https://github.com/ricohapi/theta-plugin-camera-api-sample-x) ⭐ 11 | 🐛 0 | 🌐 Kotlin | 📅 2025-09-08 - Sample project of Camera API usage for RICOH THETA X
 * [theta-plugin-library](https://github.com/ricohapi/theta-plugin-library) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2025-09-08 - Library including THETA specified methods and APIs
-* [theta-plugin-camera-api-sample](https://github.com/ricohapi/theta-plugin-camera-api-sample) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2025-09-09 - Sample project of Camera API usage
+* [theta-plugin-camera-api-sample](https://github.com/ricohapi/theta-plugin-camera-api-sample) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2025-09-09 - Sample project of Camera API usage
 * [theta-cloud-upload-v2-plugin](https://github.com/ricohapi/theta-cloud-upload-v2-plugin) ⚠️ Archived - File cloud upload V2 plugin
 * [theta-vr-media-connection-plugin](https://github.com/ricohapi/theta-vr-media-connection-plugin) ⚠️ Archived - VR media connection plugin
 
 ## USB
 
-* [libuvc-theta](https://github.com/ricohapi/libuvc-theta) ⚠️ Archived - [libuvc](https://github.com/libuvc/libuvc) ⭐ 1,157 | 🐛 159 | 🌐 C | 📅 2024-06-25 adding support for UVC1.5/H.264
+* [libuvc-theta](https://github.com/ricohapi/libuvc-theta) ⚠️ Archived - [libuvc](https://github.com/libuvc/libuvc) ⭐ 1,158 | 🐛 152 | 🌐 C | 📅 2026-09-04 adding support for UVC1.5/H.264
 * [libuvc-theta-sample](https://github.com/ricohapi/libuvc-theta-sample) ⚠️ Archived - Samples for [libuvc-theta](https://github.com/ricohapi/libuvc-theta) ⚠️ Archived
 
 ## Communities
@@ -56,4 +56,4 @@ Contributions are always welcome! Please read the [contribution guidelines](cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
