@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "ricohapi",
             "repo": "theta-client",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "android",
               "flutter",
@@ -113,7 +113,7 @@
             "open_issues": 1,
             "owner": "ricohapi",
             "repo": "fake-theta",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "api",
               "ricoh",
@@ -145,7 +145,7 @@
             "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-plugin-sdk",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "theta-plugin"
             ]
@@ -237,7 +237,7 @@
             "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-plugin-library",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "theta-plugin"
             ]
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:35:08.348Z",
+    "last_updated": "2026-09-06T08:54:54.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to RICOH THETA",
