@@ -17,7 +17,7 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 ## :link: THETA API
 
 * [RICOH360 Docs for Developers](https://docs.ricoh360.com/)
-* [theta-api-specs](https://github.com/ricohapi/theta-api-specs) ⭐ 54 | 🐛 0 | 📅 2026-09-03 - RICOH THETA API specifications
+* [theta-api-specs](https://github.com/ricohapi/theta-api-specs) ⭐ 54 | 🐛 0 | 📅 2026-09-07 - RICOH THETA API specifications
 
 ## :iphone: THETA Mobile SDK and Library
 
@@ -40,7 +40,7 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 
 ## USB
 
-* [libuvc-theta](https://github.com/ricohapi/libuvc-theta) ⚠️ Archived - [libuvc](https://github.com/libuvc/libuvc) ⭐ 1,158 | 🐛 143 | 🌐 C | 📅 2026-09-06 adding support for UVC1.5/H.264
+* [libuvc-theta](https://github.com/ricohapi/libuvc-theta) ⚠️ Archived - [libuvc](https://github.com/libuvc/libuvc) ⭐ 1,158 | 🐛 126 | 🌐 C | 📅 2026-09-07 adding support for UVC1.5/H.264
 * [libuvc-theta-sample](https://github.com/ricohapi/libuvc-theta-sample) ⚠️ Archived - Samples for [libuvc-theta](https://github.com/ricohapi/libuvc-theta) ⚠️ Archived
 
 ## Communities
@@ -56,4 +56,4 @@ Contributions are always welcome! Please read the [contribution guidelines](cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
