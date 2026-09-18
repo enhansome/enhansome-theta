@@ -40,7 +40,7 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 
 ## USB
 
-* [libuvc-theta](https://github.com/ricohapi/libuvc-theta) ⚠️ Archived - [libuvc](https://github.com/libuvc/libuvc) ⭐ 1,159 | 🐛 118 | 🌐 C | 📅 2026-09-13 adding support for UVC1.5/H.264
+* [libuvc-theta](https://github.com/ricohapi/libuvc-theta) ⚠️ Archived - [libuvc](https://github.com/libuvc/libuvc) ⭐ 1,160 | 🐛 118 | 🌐 C | 📅 2026-09-13 adding support for UVC1.5/H.264
 * [libuvc-theta-sample](https://github.com/ricohapi/libuvc-theta-sample) ⚠️ Archived - Samples for [libuvc-theta](https://github.com/ricohapi/libuvc-theta) ⚠️ Archived
 
 ## Communities
@@ -56,4 +56,4 @@ Contributions are always welcome! Please read the [contribution guidelines](cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
