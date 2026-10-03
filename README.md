@@ -7,7 +7,7 @@
 A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.com/theta/)
 
 > \[!NOTE]\
-> If you have any questions or suggestions, please visit [Discussions](https://github.com/ricohapi/awesome-theta/discussions?discussions_q=) ⭐ 66 | 🐛 0 | 📅 2025-06-04 and create a new discussion thread.
+> If you have any questions or suggestions, please visit [Discussions](https://github.com/ricohapi/awesome-theta/discussions?discussions_q=) and create a new discussion thread.
 
 ## :camera: THETA Hardware
 
@@ -56,4 +56,4 @@ Contributions are always welcome! Please read the [contribution guidelines](cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
