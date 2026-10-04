@@ -50,7 +50,7 @@
             "open_issues": 1,
             "owner": "ricohapi",
             "repo": "theta-api2.1-android-sdk",
-            "stars": 12,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
@@ -168,7 +168,7 @@
             "open_issues": 0,
             "owner": "ricohapi",
             "repo": "theta-wireless-live-streaming-plugin",
-            "stars": 39,
+            "stars": 38,
             "topics": [
               "theta-plugin"
             ]
@@ -335,7 +335,7 @@
             "open_issues": 0,
             "owner": "ricohapi",
             "repo": "libuvc-theta",
-            "stars": 64,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:35.249Z"
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:02:54.888Z",
+    "last_updated": "2026-10-04T10:45:32.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to RICOH THETA",
