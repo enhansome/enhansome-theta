@@ -21,7 +21,7 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 
 ## :iphone: THETA Mobile SDK and Library
 
-* [theta-client](https://github.com/ricohapi/theta-client) ⭐ 29 | 🐛 13 | 🌐 Kotlin | 📅 2026-11-10 - Client library using Web API v2.1 to control THETA
+* [theta-client](https://github.com/ricohapi/theta-client) ⭐ 29 | 🐛 13 | 🌐 Kotlin | 📅 2026-11-11 - Client library using Web API v2.1 to control THETA
 * [theta-api2.1-android-sdk](https://github.com/ricohapi/theta-api2.1-android-sdk) ⚠️ Archived - \[archived] A sample application project using Web API v2.1 for Android
 * [theta-api2.1-ios-sdk](https://github.com/ricohapi/theta-api2.1-ios-sdk) ⚠️ Archived - \[archived] A sample application project using Web API v2.1 for iOS
 * [theta-ble-client](https://github.com/ricohapi/theta-ble-client) ⭐ 4 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-27 - Client library using Bluetooth API to control THETA
@@ -56,4 +56,4 @@ Contributions are always welcome! Please read the [contribution guidelines](cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

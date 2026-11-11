@@ -15,7 +15,7 @@
             "id": 592574011,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-10T06:41:24Z",
+            "last_commit": "2026-11-11T02:17:55Z",
             "open_issues": 13,
             "owner": "ricohapi",
             "repo": "theta-client",
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:59:01.024Z",
+    "last_updated": "2026-11-11T12:10:09.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to RICOH THETA",
